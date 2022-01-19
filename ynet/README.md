@@ -56,3 +56,7 @@ Configuration files (or config files) are used to load hyperparameters such as h
 
 ## Tutorials for training and evaluation 
 Please find the tutorials for training new models and evaluating pretrained models in the corresponding notebooks.
+
+## Additional notes
+This branch contains the updated code integrated with wandb as ported to lightning. Some of the folders could not be uploaded owing to the large file sizes. In order to organise the files correctly, visit the drive link provided here and download ( and upload) the weights, pretrained models and other data such that the file structure is consistent with that provided in the drive link
+Drive link : https://drive.google.com/drive/folders/1eqnxAZuvNgLdS53Q2yHmKRwcnvyd3evj?usp=sharing
