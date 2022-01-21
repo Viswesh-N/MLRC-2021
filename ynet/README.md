@@ -1,4 +1,4 @@
-# Y-net
+# Y-nett
 
 This repository contains the code for the following ICCV'21 paper:
 
