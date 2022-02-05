@@ -25,7 +25,7 @@ Human trajectory forecasting is an inherently multimodal problem. Uncertainty in
 </div>
 
 ## Setup
-The paper was reproduced and tested using Google Colab , with Python 3.8.3 and PyTorch 1.5.1 with CUDA 10.2. The codebase was furthermore integrated with weights and biases for visualization and tabulation of the obtained results. The necessary libraries required for running the code can be found in the requirements.txt under /ynet. 
+The paper was reproduced and tested using Google Colab , with Python 3.8.3 and PyTorch 1.5.1 with CUDA 10.2. The codebase was furthermore integrated with weights and biases for visualization and tabulation of the obtained results. The necessary libraries required for running the code can be found in the requirements.txt. 
 <!-- All code was developed and tested on Windows 10 with Python 3.8.3 and PyTorch 1.5.1 with CUDA 10.2. The necessary libraries can be found in the requirements.txt. Note that PyTorch and nb_conda_kernels are commented out in the requirements.txt to be compatible with different systems and CUDA versions and needs to be manually installed.  -->
 <!-- 
 ## Pretrained Models, Data and Config files
